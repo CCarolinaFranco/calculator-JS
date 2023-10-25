@@ -1,0 +1,49 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif; /* Change the font family to your desired choice */
+    background-color: #f0f0f0; /* Light gray background color */
+    color: #333; /* Text color */
+    text-align: center; /* Center align text */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for the container */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Drop shadow */
+  }
+  
+  /* Input styles */
+  .js-input1,
+  .js-input2 {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #3498db; /* Blue border color */
+    border-radius: 8px; /* Rounded corners */
+    font-size: 18px; /* Increase the font size */
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .js-btns button {
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db; /* Blue background color */
+    color: #fff; /* Text color */
+    border: none;
+    border-radius: 8px; /* Rounded corners */
+    font-size: 18px; /* Increase the font size */
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  /* Result styles */
+  .js-result {
+    font-size: 24px; /* Increase the font size */
+    font-weight: bold;
+    color: #3498db; /* Blue color for the result text */
+    margin: 10px 0;
+  }
+  

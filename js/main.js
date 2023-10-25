@@ -29,7 +29,7 @@ function handleClickSuma(e){
      resultado = input1Value / input2Value;
   }
 
-  result.innerHTML = resultado;
+  result.innerHTML = `Resultado = ${resultado}`;
 }
 
 
